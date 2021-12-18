@@ -2,7 +2,7 @@ package main;
 
 import java.util.Objects;
 
-public class Hotel {
+public class Hotel { 
     private final double rate;
     private final String name;
 
