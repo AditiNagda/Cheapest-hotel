@@ -11,6 +11,10 @@ public class Hotel {
         this.name = name;
     }
 
+    public String getName() {
+        return name;
+    }
+
     public double getRate() {
         return rate;
     }
